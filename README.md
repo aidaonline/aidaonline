@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Aïda
-- 💞️ I’m 17 years old
-- 👀 I’m interested in gaming and music
-- 🌱 I’m currently learning the basics of coding 
+road work ahead
